@@ -39,4 +39,4 @@ Code quality and structure will improve as I learn more.
 ## 🙋 About Me
 **Ekeshwar Singh**  
 M.Sc. Statistics  
-Aspiring Data Scientist / ML Enthusiast
+Aspiring Data Analyst / Data Scientist / ML Enthusiast
