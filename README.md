@@ -38,5 +38,5 @@ Code quality and structure will improve as I learn more.
 
 ## 🙋 About Me
 **Ekeshwar Singh**  
-M.Sc. Statistics  
+M.Sc. Statistics  (Final Year)
 Aspiring Data Analyst / Data Scientist / ML Enthusiast
